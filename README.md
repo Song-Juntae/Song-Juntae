@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dangerbean55/video/7247693104797535493" data-video-id="7247693104797535493" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@dangerbean55" href="https://www.tiktok.com/@dangerbean55?refer=embed">@dangerbean55</a> wait for the end and let me know the message of this video <a title="skit" target="_blank" href="https://www.tiktok.com/tag/skit?refer=embed">#skit</a> <a title="sketchcomedy" target="_blank" href="https://www.tiktok.com/tag/sketchcomedy?refer=embed">#sketchcomedy</a> <a title="mindblown" target="_blank" href="https://www.tiktok.com/tag/mindblown?refer=embed">#mindblown</a> <a target="_blank" title="♬ original sound - dangerbean" href="https://www.tiktok.com/music/original-sound-7247693113228643077?refer=embed">♬ original sound - dangerbean</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
