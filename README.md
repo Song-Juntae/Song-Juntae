@@ -4,6 +4,7 @@
 
     One Day or Day One Challenge
 
+<!--
 ## Skill Set List - 작성 중
 
 ## 프로젝트
@@ -15,6 +16,7 @@
     자료구조/알고리즘 : 알고리즘 문제 풀이
 
     컴퓨터 과학 : 웹 서버 구축
+-->
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
