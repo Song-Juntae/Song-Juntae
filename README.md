@@ -1,22 +1,28 @@
-### Hi there 👋
+<!-- 좌우명 Motto 나를 움직이게 하는 문장들 -->
+<!--''언젠가 하고 말 거야'보다 바로 부딪쳐보는 것 -->
+###### > [One Day or Day One ](https://youtu.be/sShSktXJxw8)
+---
+# Repositories
 
-## 계획
+## 1. [reference](https://github.com/Song-Juntae/references)
 
-    One Day or Day One Challenge
+참고한 과학기술 관련 정보를 효율적으로 관리할 수 있도록, <br> 국가과학기술 표준분류체계를 바탕으로 만든 저장소
 
-<!--
-## Skill Set List - 작성 중
+## 2. [math](https://github.com/Song-Juntae/math)
 
-## 프로젝트
+수학에 대해 공부한 내용을 정리한 저장소
 
-    수학/시각화 : 수학+시각화
+## 3. [algorithm](https://github.com/Song-Juntae/algorithm)
 
-    머신러닝/딥러닝 : 데이터셋+분석
+알고리즘에 대해 공부한 내용을 정리한 저장소
 
-    자료구조/알고리즘 : 알고리즘 문제 풀이
+## 4. [statistics](https://github.com/Song-Juntae/statistics)
 
-    컴퓨터 과학 : 웹 서버 구축
--->
+통계에 대해 공부한 내용을 정리한 저장소
+
+## 5. [ai](https://github.com/Song-Juntae/ai)
+
+인공지능에 대해 공부한 내용을 정리한 저장소
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
