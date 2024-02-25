@@ -4,25 +4,19 @@
 ---
 # Repositories
 
-## 1. [reference](https://github.com/Song-Juntae/references)
+짧은 저장소 소개
 
-참고한 과학기술 관련 정보를 효율적으로 관리할 수 있도록, <br> 국가과학기술 표준분류체계를 바탕으로 만든 저장소
+<!-- : <span style="font-size:65%"></span> -->
 
-## 2. [math](https://github.com/Song-Juntae/math)
+## 1. [reference](https://github.com/Song-Juntae/references) : <span style="font-size:65%"> 공부하는 참고자료를 정리하는 저장소 </span> 
 
-수학에 대해 공부한 내용을 정리한 저장소
+## 2. [math](https://github.com/Song-Juntae/math) : <span style="font-size:65%"> 수학에 대해 공부한 내용을 정리하는 저장소</span>
 
-## 3. [algorithm](https://github.com/Song-Juntae/algorithm)
+## 3. [algorithm](https://github.com/Song-Juntae/algorithm) : <span style="font-size:65%"> 알고리즘에 대해 공부한 내용을 정리하는 저장소 </span>
 
-알고리즘에 대해 공부한 내용을 정리한 저장소
+## 4. [statistics](https://github.com/Song-Juntae/statistics) : <span style="font-size:65%"> 통계에 대해 공부한 내용을 정리하는 저장소 </span>
 
-## 4. [statistics](https://github.com/Song-Juntae/statistics)
-
-통계에 대해 공부한 내용을 정리한 저장소
-
-## 5. [ai](https://github.com/Song-Juntae/ai)
-
-인공지능에 대해 공부한 내용을 정리한 저장소
+## 5. [ai](https://github.com/Song-Juntae/ai) : <span style="font-size:65%"> 인공지능에 대해 공부한 내용을 정리하는 저장소 </span>
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
