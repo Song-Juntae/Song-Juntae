@@ -2,12 +2,6 @@
 <!--''언젠가 하고 말 거야'보다 바로 부딪쳐보는 것 -->
 ###### > [One Day or Day One ](https://youtu.be/sShSktXJxw8)
 ---
-# Repositories
-
-짧은 저장소 소개
-
-<!-- : <span style="font-size:65%"></span> -->
-
 |저장소|짧은 설명|
 |---|:---|
 |[reference](https://github.com/Song-Juntae/references)|공부하는 참고자료를 정리하는 저장소|
