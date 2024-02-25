@@ -8,15 +8,13 @@
 
 <!-- : <span style="font-size:65%"></span> -->
 
-## 1. [reference](https://github.com/Song-Juntae/references) : <span style="font-size:65%"> 공부하는 참고자료를 정리하는 저장소 </span> 
-
-## 2. [math](https://github.com/Song-Juntae/math) : <span style="font-size:65%"> 수학에 대해 공부한 내용을 정리하는 저장소</span>
-
-## 3. [algorithm](https://github.com/Song-Juntae/algorithm) : <span style="font-size:65%"> 알고리즘에 대해 공부한 내용을 정리하는 저장소 </span>
-
-## 4. [statistics](https://github.com/Song-Juntae/statistics) : <span style="font-size:65%"> 통계에 대해 공부한 내용을 정리하는 저장소 </span>
-
-## 5. [ai](https://github.com/Song-Juntae/ai) : <span style="font-size:65%"> 인공지능에 대해 공부한 내용을 정리하는 저장소 </span>
+|저장소|짧은 설명|
+|---|:---|
+|[reference](https://github.com/Song-Juntae/references)|공부하는 참고자료를 정리하는 저장소|
+|[math](https://github.com/Song-Juntae/math)|수학에 대해 공부한 내용을 정리하는 저장소|
+|[algorithm](https://github.com/Song-Juntae/algorithm)|알고리즘에 대해 공부한 내용을 정리하는 저장소|
+|[statistics](https://github.com/Song-Juntae/statistics)|통계에 대해 공부한 내용을 정리하는 저장소|
+|[ai](https://github.com/Song-Juntae/ai)|인공지능에 대해 공부한 내용을 정리하는 저장소|
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
