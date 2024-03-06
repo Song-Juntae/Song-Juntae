@@ -17,7 +17,12 @@
 ## kaggle Competitions
 |데이터|짧은 소개|리더보드|분석코드|
 |---|:---|:---|:---|
+|Telco Customer Churn||||
+|Bike Sharing Demand||||
+|Mercedes-Benz Greener Manufacturing||||
+|Credit Card Fraud Detection||||
 |Store Sales||||
+
 ## Dacon 대회
 |데이터|짧은 소개|리더보드|분석코드|
 |---|:---|:---|:---|
