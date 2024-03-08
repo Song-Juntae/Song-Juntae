@@ -15,16 +15,16 @@
 # 데이터 분석
 
 ## kaggle Competitions
-|데이터|짧은 소개|리더보드|분석코드|
+|데이터|짧은 소개|평가지표/성능|분석코드|
 |---|:---|:---|:---|
-|Telco Customer Churn||||
+|Telco Customer Churn|||[ipynb](https://github.com/Song-Juntae/kaggle/blob/main/telco_customer_churn/telco_customer_churn.ipynb)|
 |Bike Sharing Demand||||
 |Mercedes-Benz Greener Manufacturing||||
 |Credit Card Fraud Detection||||
 |Store Sales||||
 
 ## Dacon 대회
-|데이터|짧은 소개|리더보드|분석코드|
+|데이터|짧은 소개|평가지표/|분석코드|
 |---|:---|:---|:---|
 |||||
 
