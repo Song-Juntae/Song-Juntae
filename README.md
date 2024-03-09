@@ -21,6 +21,10 @@
 |CPU|AMD Ryzen 7 5700X 8-Core Processor|
 |RAM|64.0GB|
 |그래픽카드|NVIDIA GeForce RTX 3060|
+|운영체재|Windows 11 Home|
+|가상환경|Windows Subsystem for Linux|
+|가상환경|Docker|
+|패키지 관리자|conda|
 
 > [Docker hub - songjuntae](https://hub.docker.com/u/songjuntae)
 
