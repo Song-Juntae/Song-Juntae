@@ -14,19 +14,29 @@
 ---
 # 데이터 분석
 
+## 분석 환경
+
+|||
+|---|---|
+|CPU|AMD Ryzen 7 5700X 8-Core Processor|
+|RAM|64.0GB|
+|그래픽카드|NVIDIA GeForce RTX 3060|
+
+> [Docker hub - songjuntae](https://hub.docker.com/u/songjuntae)
+
 ## kaggle Competitions
-|데이터|짧은 소개|평가지표/성능|분석코드|
-|---|:---|:---|:---|
-|Telco Customer Churn|||[ipynb](https://github.com/Song-Juntae/kaggle/blob/main/telco_customer_churn/telco_customer_churn.ipynb)|
-|Bike Sharing Demand||||
-|Mercedes-Benz Greener Manufacturing||||
-|Credit Card Fraud Detection||||
-|Store Sales||||
+|데이터|짧은 소개|평가지표/성능|리더보드 상위 점수|도커이미지|분석코드|
+|---|:---|:---|:---|:---|:---|
+|Telco Customer Churn|||||[ipynb](https://github.com/Song-Juntae/kaggle/blob/main/telco_customer_churn/telco_customer_churn.ipynb)|
+|Bike Sharing Demand||||||
+|Mercedes-Benz Greener Manufacturing||||||
+|Credit Card Fraud Detection||||||
+|Store Sales||||||
 
 ## Dacon 대회
-|데이터|짧은 소개|평가지표/|분석코드|
-|---|:---|:---|:---|
-|||||
+|데이터|짧은 소개|평가지표/성능|리더보드 상위 점수|도커이미지|분석코드|
+|---|:---|:---|:---|:---|:---|
+|||||||
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
