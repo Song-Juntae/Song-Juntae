@@ -24,7 +24,8 @@
 |운영체재|Windows 11 Home|
 |가상환경|Windows Subsystem for Linux|
 |가상환경|Docker|
-|패키지 관리자|conda|
+|패키지 관리자|Conda|
+|편집기|Visual Studio Code|
 
 > [Docker hub - songjuntae](https://hub.docker.com/u/songjuntae)
 
