@@ -30,7 +30,7 @@
 > [Docker hub - songjuntae](https://hub.docker.com/u/songjuntae)
 
 ## kaggle Competitions
-|데이터|짧은 소개|평가지표/성능|리더보드 상위 점수|도커이미지|분석코드|
+|데이터|짧은 소개|평가지표|내모델성능/리더보드상위성능|도커이미지|분석코드|
 |---|:---|:---|:---|:---|:---|
 |Telco Customer Churn|||||[ipynb](https://github.com/Song-Juntae/kaggle/blob/main/telco_customer_churn/telco_customer_churn.ipynb)|
 |Bike Sharing Demand||||||
@@ -39,10 +39,10 @@
 |Store Sales||||||
 
 ## Dacon 대회
-|데이터|짧은 소개|평가지표/성능|리더보드 상위 점수|도커이미지|분석코드|
+|데이터|짧은 소개|평가지표|내모델성능/리더보드상위성능|도커이미지|분석코드|
 |---|:---|:---|:---|:---|:---|
+|[소득 예측 AI 해커톤](https://dacon.io/competitions/official/236230/leaderboard)|개인정보를 통한 소득 예측|RMSE|581/537|||
 |모델 튜닝 챌린지 : RF 하이퍼파라미터 최적화 경진대회||||||
-|소득 예측 AI 해커톤||||||
 |구내 식당 이용 인원||||||
 |태양광 발전량||||||
 |영화 관객||||||
