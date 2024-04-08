@@ -29,26 +29,25 @@
 
 > [Docker hub - songjuntae](https://hub.docker.com/u/songjuntae)
 
-## kaggle Competitions
-|데이터|짧은 소개|평가지표|내모델성능/리더보드상위성능|도커이미지|분석코드|
-|---|:---|:---|:---|:---|:---|
-|Telco Customer Churn|||||[ipynb](https://github.com/Song-Juntae/kaggle/blob/main/telco_customer_churn/telco_customer_churn.ipynb)|
-|Bike Sharing Demand||||||
-|Mercedes-Benz Greener Manufacturing||||||
-|Credit Card Fraud Detection||||||
-|Store Sales||||||
+## Kaggle Competitions
+|데이터|평가지표|Private|도커이미지|분석코드|
+|---|:---|:---|:---|:---|
+|Telco Customer Churn||||[ipynb](https://github.com/Song-Juntae/kaggle/blob/main/telco_customer_churn/telco_customer_churn.ipynb)|
+|Bike Sharing Demand|||||
+|Mercedes-Benz Greener Manufacturing|||||
+|Credit Card Fraud Detection|||||
+|Store Sales|||||
 
 ## Dacon 대회
-|데이터|짧은 소개|평가지표|private|도커이미지|분석코드|
-|---|:---|:---|:---|:---|:---|
-|[소득 예측 AI 해커톤](https://dacon.io/competitions/official/236230/leaderboard)|개인정보를 통한 소득 예측|RMSE|568/549||[ipynb](https://github.com/Song-Juntae/dacon/blob/main/notebooks/데이콘_소득예측.ipynb)|
-|모델 튜닝 챌린지 : RF 하이퍼파라미터 최적화 경진대회||||||
-|구내 식당 이용 인원||||||
-|태양광 발전량||||||
-|영화 관객||||||
-|당뇨병 위험 분류||||||
-|IRIS 품종 분류||||||
-|축구선수 유망 여부||||||
+|데이터|평가지표|Private|도커이미지|분석코드|
+|---|:---|:---|:---|:---|
+|[소득 예측](https://dacon.io/competitions/official/236230/leaderboard)|RMSE|568/549||[ipynb](https://github.com/Song-Juntae/dacon/blob/main/notebooks/데이콘_소득예측.ipynb)|
+|구내 식당 이용 인원|||||
+|태양광 발전량|||||
+|영화 관객|||||
+|당뇨병 위험 분류|||||
+|IRIS 품종 분류|||||
+|축구선수 유망 여부|||||
 |||||||
 
 <!--
