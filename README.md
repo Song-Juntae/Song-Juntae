@@ -7,10 +7,10 @@
 |저장소|짧은 소개|
 |---|:---|
 |[reference](https://github.com/Song-Juntae/references)|공부하는 참고자료를 정리하는 저장소|
-|[math](https://github.com/Song-Juntae/math)|수학에 대해 공부한 내용을 정리하는 저장소|
-|[algorithm](https://github.com/Song-Juntae/algorithm)|알고리즘에 대해 공부한 내용을 정리하는 저장소|
-|[statistics](https://github.com/Song-Juntae/statistics)|통계에 대해 공부한 내용을 정리하는 저장소|
-|[ai](https://github.com/Song-Juntae/ai)|인공지능에 대해 공부한 내용을 정리하는 저장소|
+|[data_analysis](https://github.com/Song-Juntae/data_analysis)|공공 데이터를 분석하여 정리하는 저장소|
+|[kaggle](https://github.com/Song-Juntae/kaggle)|kaggle 대회, 데이터 분석 내용을 정리하는 저장소|
+|[dacon](https://github.com/Song-Juntae/dacon)|데이콘 대회, 데이터 분석 내용을 정리하는 저장소|
+
 ---
 # 데이터 분석
 
@@ -29,6 +29,7 @@
 
 > [Docker hub - songjuntae](https://hub.docker.com/u/songjuntae)
 
+<!--
 ## Kaggle Competitions
 |데이터|평가지표|Private|도커이미지|분석코드|
 |---|:---|:---|:---|:---|
@@ -49,6 +50,7 @@
 |IRIS 품종 분류|||||
 |축구선수 유망 여부|||||
 |||||||
+-->
 
 <!--
 **Song-Juntae/Song-Juntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
