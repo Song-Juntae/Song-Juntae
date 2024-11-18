@@ -4,6 +4,8 @@
 ---
 # 저장소 소개
 
+![](https://github.com/Song-Juntae/references/tree/main/기타/이미지/정리.png)
+
 |저장소|짧은 소개|
 |---|:---|
 |[reference](https://github.com/Song-Juntae/references)|공부하는 참고자료를 정리하는 저장소|
