@@ -4,7 +4,8 @@
 ---
 # 저장소 소개
 
-![](https://github.com/Song-Juntae/references/tree/main/기타/이미지/정리.png)
+![분류](https://github.com/Song-Juntae/references/tree/main/기타/이미지/분류.png)
+![정리](https://github.com/Song-Juntae/references/tree/main/기타/이미지/정리.png)
 
 |저장소|짧은 소개|
 |---|:---|
